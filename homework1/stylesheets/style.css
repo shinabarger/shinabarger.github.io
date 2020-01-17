@@ -1,0 +1,30 @@
+img{
+    height: 300px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+ h2 {
+  font-family: sans-serif;
+}
+h3 {
+  font-family: sans-serif;
+}
+
+h4 {
+  color: grey;
+  font-size: 90%;
+  font-family: sans-serif;
+}
+
+h5 {
+  font-family: sans-serif;
+}
+
+header {
+  font-family: sans-serif;
+}
+footer {
+  font-family: sans-serif;
+}
